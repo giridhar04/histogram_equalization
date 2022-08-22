@@ -1,0 +1,26 @@
+
+Name: Giridhar Varuganti
+Roll No: 19EC10070
+OpenMP Assignment - 1
+
+Files: 
+main.c --> Contains the source code
+"stb_image" folder --> Contains files to read and write an image ["stb_image" taken from https://github.com/nothings/stb ].
+Terminal_output.png --> My terminal result after running sample1.png in my system.
+"comparison" folder --> Respective input and output images(After Histogram Equalization) placed side by side.
+
+
+
+These steps are for Linux environment.
+
+How to run the file:
+1. Uplaod an input image into the folder named "inputs".
+2. Open the command window.
+3. Set the current directory to the location where the main.c file is present.
+4. Compile the file using the command "g++ -fopenmp main.c"
+5. To run the file use the command "./a.out"
+6. Next, follow the instructions printed on the command window while the file is running.
+
+Output image will be stored with the name "<original_name>_output.png"
+
+

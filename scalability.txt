@@ -1,0 +1,25 @@
+
+System Specifications
+OS Name: Ubuntu 20.04.3 LTS [I am using virtual box]
+Memory: 4.8 GiB
+Core: Intel® Core™ i7-8565U CPU @ 1.80GHz × 4 
+Number of Processors = 4
+Max number of threads = 4
+
+
+
+These are the best times I got.
+sample1.png:
+num_threads = 1 time-> 0.456162 Sec
+num_threads = 2 time-> 0.290873 Sec
+num_threads = 4 time-> 0.152614 Sec
+
+sample_2.png:
+num_threads = 1 time-> 0.874416 Sec
+num_threads = 2 time-> 0.476534 Sec
+num_threads = 4 time-> 0.375857 Sec
+
+sample_3.png:
+num_threads = 1 time-> 0.929575 Sec
+num_threads = 2 time-> 0.411181 Sec
+num_threads = 4 time-> 0.296032 Sec
