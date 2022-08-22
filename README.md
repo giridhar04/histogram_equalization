@@ -1,1 +1,1 @@
-# Histogram Equalization of an image using OpenMP
+## Histogram Equalization of an image using OpenMP
